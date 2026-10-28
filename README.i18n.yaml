@@ -1,0 +1,46 @@
+# Bilingual-pair consistency record for README.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write standalone-plugins/lerobot-dataset-inspector/README.md
+/:
+  en: f78414ceb865a674
+  zh: bf5400e87e36f695
+/dsh-lerobot-dataset-inspector:
+  en: 454f7f6d4f577ef2
+  zh: e8fa47608de6520d
+/dsh-lerobot-dataset-inspector/summary:
+  en: 8981c245ecdd49b6
+  zh: 589df6e85cf4bc7f
+/dsh-lerobot-dataset-inspector/table-of-contents:
+  en: d152484eb41ac6b4
+  zh: 1fa9a72d1ee045cc
+/dsh-lerobot-dataset-inspector/use-this-package:
+  en: bbff250eba0f1b89
+  zh: b20a47f82d8ab6e0
+/dsh-lerobot-dataset-inspector/use-this-package/install-into-a-profile:
+  en: b30a35322cace0a2
+  zh: 24c0db61f4e6d609
+/dsh-lerobot-dataset-inspector/use-this-package/what-you-get:
+  en: 3c090a186f5ac0f1
+  zh: 724488e982ce3713
+/dsh-lerobot-dataset-inspector/use-this-package/run-the-tests:
+  en: 4c4bea6c26011741
+  zh: 79faf66db0b82d31
+/dsh-lerobot-dataset-inspector/understand-the-implementation:
+  en: fd44ab0bbbc4cbe5
+  zh: 605dc818c3c6dc5d
+/dsh-lerobot-dataset-inspector/further-exploration:
+  en: 1ff24edbdc144e86
+  zh: 57338e75bfe7c43b
+/dsh-lerobot-dataset-inspector/model-experience:
+  en: 62974660d538e56a
+  zh: 8b921e849afac5a7
+/dsh-lerobot-dataset-inspector/model-experience/kv-cache-impact:
+  en: 304d3699e62066c4
+  zh: 29146a4855830adb
+/dsh-lerobot-dataset-inspector/known-limitations-and-deferred-work:
+  en: 01185cb6baff20fc
+  zh: 43f4f4ddeefb09e8
+/dsh-lerobot-dataset-inspector/known-limitations-and-deferred-work/dev-note:
+  en: 279d01435256cd2a
+  zh: 6df6019931844fb2
